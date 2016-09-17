@@ -27,7 +27,7 @@
       </repository>
 </distributionManagement>
 madhu
-varam
+madhu
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
