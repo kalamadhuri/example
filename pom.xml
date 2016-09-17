@@ -26,7 +26,7 @@
          <url>http://localhost:8081/nexus/content/repositories/releases/</url>
       </repository>
 </distributionManagement>
-nothing but smile
+everthing
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
