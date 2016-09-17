@@ -26,8 +26,7 @@
          <url>http://localhost:8081/nexus/content/repositories/releases/</url>
       </repository>
 </distributionManagement>
-madhu
-madhu
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
