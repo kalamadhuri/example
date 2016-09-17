@@ -26,7 +26,11 @@
          <url>http://localhost:8081/nexus/content/repositories/releases/</url>
       </repository>
 </distributionManagement>
+<<<<<<< HEAD
 
+=======
+everthing
+>>>>>>> 33576c42f7ee376a5bd383e1bd997486c1e8f467
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
