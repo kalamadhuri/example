@@ -13,7 +13,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
-madhu
+
 <distributionManagement>
       <snapshotRepository>
          <id>Snapshots</id>
@@ -26,7 +26,7 @@ madhu
          <url>http://localhost:8081/nexus/content/repositories/releases/</url>
       </repository>
 </distributionManagement>
-madhuk
+
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
